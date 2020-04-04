@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/NoahSchade/node-farm#readme",
   "dependencies": {
-    "slugify": "^1.4.0"
+    "slugify": "~1.4.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
